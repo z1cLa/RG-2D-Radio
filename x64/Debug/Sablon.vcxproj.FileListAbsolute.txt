@@ -1,0 +1,6 @@
+C:\Users\slobo\Desktop\graf\Sablon\x64\Debug\glew32.dll
+C:\Users\slobo\Desktop\graf\Sablon\x64\Debug\Sablon.exe
+F:\snimanje\4.Grafika\graf\Sablon\x64\Debug\glew32.dll
+F:\snimanje\4.Grafika\graf\Sablon\x64\Debug\Sablon.exe
+F:\snimanje\4.Grafika\graf\Radio\x64\Debug\glew32.dll
+F:\snimanje\4.Grafika\graf\Radio\x64\Debug\Sablon.exe
