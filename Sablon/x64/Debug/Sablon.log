@@ -1,0 +1,27 @@
+﻿  main.cpp
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(76,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(88,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(111,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(111,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(111,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(112,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(112,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(112,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(113,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(113,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(113,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(114,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(114,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(114,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(145,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(146,29): warning C4305: '=': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(147,29): warning C4305: '=': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(150,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(151,81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(361,33): warning C4305: '=': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(362,36): warning C4305: '=': truncation from 'double' to 'float'
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(405,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(418,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\main.cpp(513,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  Sablon.vcxproj -> H:\snimanje\4.Grafika\graf\Radio\RG-2D-Radio\x64\Debug\Sablon.exe
